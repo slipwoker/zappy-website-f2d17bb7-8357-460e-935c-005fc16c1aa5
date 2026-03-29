@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+DigitalKey מציעה רישיונות דיגיטליים מקוריים ל-Windows ו-Office במחירים תחרותיים. קבלו מפתח דיגיטלי מאובטח עם משלוח מיידי לתיבת המייל שלכם. הזמינו היום!
+
+### מדריך פתרונות ורישיונות
+https://example.com/solutions
+המדריך המקיף שלנו לרישיונות דיגיטליים עוזר לכם לבחור את מפתח ה-Windows או Office הנכון לצרכים שלכם. השוו מסלולים, גלו מחירים ורכשו בביטחון מלא עם DigitalKey.
+
+### אודות DigitalKey
+https://example.com/about
+DigitalKey נוסדה מתוך מחויבות לספק תוכנה מקורית ומאובטחת לכל אחד. גלו מי אנחנו, מה מניע אותנו, ולמה אלפי לקוחות בוחרים בנו לרכישת רישיונות דיגיטליים אמינים.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על רישיון Windows או Office? צוות המומחים של DigitalKey זמין לעזור לכם לבחור, לרכוש ולהפעיל את התוכנה שלכם במהירות ובביטחון. פנו אלינו עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - DigitalKey
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - DigitalKey
+
+### Category
+https://example.com/category/:slug
+מוצרים - DigitalKey
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
